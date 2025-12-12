@@ -49,6 +49,7 @@ cd IPPRPO3
 java -version
 
 # Создание конфигурационного файла
+cd C:\Users\KaMo User\Desktop\IPPRPO3\src\main\resources
 echo csv.input.path=./src/main/resources/sales.csv > app.properties
 echo filter.product.id=P-456 >> app.properties
 echo report.top.sales.count=10 >> app.properties
