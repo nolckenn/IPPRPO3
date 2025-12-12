@@ -1,0 +1,17 @@
+{
+  "user": {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com"
+  },
+  "order": {
+    "id": "B-789-012",
+    "total": "150.50"
+  },
+  "product": {
+    "name": "Wireless Headphones",
+    "quantity": "2"
+  },
+  "company": {
+    "name": "Tech Gadgets Inc"
+  }
+}
